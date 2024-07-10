@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Elnagar</h1>
-<h3 align="center">A Junior Flutter developer from Egypt</h3>
+<h3 align="center"> Flutter developer from Egypt </h3>
 
 - 📚 I'm currently learning **Flutter**
 
