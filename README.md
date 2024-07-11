@@ -27,7 +27,7 @@
 
 <a href="https:https://github.com/Mahmoudelnagar5/github-readme-stats">
     <img align="left"  alt="Mahmoudelnagar5's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoudelnagar5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/a7medAlqal3awyi/github-readme-stats">
+<a href="https://github.com/Mahmoudelnagar5/github-readme-stats">
     <img align="right" alt="Mahmoudelnagar5's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudelnagar5&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 
