@@ -27,16 +27,16 @@
 
 
 <p align="center">
-    <a href="https://github.com/a7medAlqal3awyi/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="a7medAlqal3awyi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=a7medAlqal3awyi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Mahmoudelnagar5/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mahmoudelnagar5's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudelnagar5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   
 </p>
 
+<a href="https:https://github.com/Mahmoudelnagar5/github-readme-stats">
+    <img align="left"  alt="Mahmoudelnagar5's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mahmoudelnagar5&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/a7medAlqal3awyi/github-readme-stats">
-    <img align="left"  alt="a7medAlqal3awyi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=a7medAlqal3awyi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/a7medAlqal3awyi/github-readme-stats">
-    <img align="right" alt="a7medAlqal3awyi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medAlqal3awyi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img align="right" alt="Mahmoudelnagar5's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudelnagar5&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br>
 
 
