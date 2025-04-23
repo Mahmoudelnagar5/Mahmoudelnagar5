@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />  -->
 <img src="https://github.com/user-attachments/assets/4edd5b55-e11a-4ab8-86eb-069f5876819d" width="100%" />
 
 <h1 align="center">Welcome, I am Mahmoud Elnagar</h1>
 <h4 align="center">Flutter Developer and a Bachelor’s degree student in Computer Science with a focus on building high-performance, responsive, and user-friendly mobile applications. Experienced in building cross-platform apps using Flutter and Dart, with a focus on clean architecture, responsive UI, and smooth user experiences. Skilled in integrating APIs, managing state efficiently, and implementing modern design principles. Continuously exploring new technologies and committed to delivering scalable and maintainable mobile solutions.</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoudelnagar5&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoudelnagar5" /> </p>
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahmoudelnagar5&label=Profile%20views&color=0e75b6&style=flat" alt="Mahmoudelnagar5" /> </p> --> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mahmoudelnagar5&theme=dark_lover" alt="Mahmoudelnagar5" /></a> </p>
 
