@@ -28,6 +28,22 @@
 <h2 align="left">🚀 Projects I've Worked On:</h2>
 <p align="left">
 <div>
+  <h2 align="left">• 🤖 Aura – AI-Powered Study Partner</h2>
+  <p align="left">
+    <a href="https://aura-01.netlify.app/" target="_blank">
+       Download the App now 
+    </a>
+  </p>
+
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/ar1.png?raw=true" alt="ar1" width="800" />
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/ar2.png?raw=true" alt="ar1" width="800" />
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/ar3.png?raw=true" alt="ar1" width="800" />
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/ar4.png?raw=true" alt="ar1" width="800" />
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/ar5.png?raw=true" alt="ar1" width="800" />
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/ar6.png?raw=true" alt="ar1" width="800" />
+  
+<p align="left">
+<div>
   <h2 align="left">• ITI Learning Platform</h2>
   <p align="left">
     <a href="https://itiwebview.netlify.app/" target="_blank">
@@ -47,6 +63,7 @@
   <h3 align="left" style="margin-left: 20px;"> Manager View</h3>
   <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/mangerview.png?raw=true" alt="ITI Learning Platform - Manager View" width="800" />
   
+
 <p align="left">
 <div>
   <h2 align="left">• Filmrise</h2>
