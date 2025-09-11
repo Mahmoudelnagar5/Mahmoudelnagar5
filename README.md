@@ -14,25 +14,73 @@
 
 - 📫 How to reach me **elnagarm852@gmail.com**
 - 👨‍💻 All of my projects are available at **https://www.linkedin.com/in/mahmoud-elnagar-11040a259/**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1m2b4VJXakVsl6LmJZAVtMdr90LeGWICZ/view**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1gm2ug_FLyzd_x-B2LXidweHBuWq9HhNt/view**
 
 <div> <a href="https://www.linkedin.com/in/mahmoud-elnagar-11040a259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Mahmoudelnagar5" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:elnagarm852@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud-elnagar-11040a259" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mahmoud-elnagar-11040a259" height="30" width="40" /></a><a href="https://fb.com/m.elnaggar.159" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="m.elnaggar.159" height="30" width="40" /></a><a href="https://www.leetcode.com/Mahmoud_Elnagar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Mahmoud_Elnagar5" height="30" width="40" /></a><a href="https://discord.gg/mahmoud_elnagar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="mahmoud_elnagar5" height="30" width="40" /></a><a href="https://codeforces.com/profile/Mahmoud_Elnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Mahmoud_Elnagar" height="30" width="40" /></a></p>
 
+---
+<h2 align="left">🚀 Projects I've Worked On:</h2>
+<p align="left">
+<div>
+  <h2 align="left">• ITI Learning Platform</h2>
+  <p align="left">
+    <a href="https://itiwebview.netlify.app/" target="_blank">
+       Download the App now 
+    </a>
+  </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Mahmoudelnagar5">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahmoudelnagar5&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahmoudelnagar5&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahmoudelnagar5&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahmoudelnagar5&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahmoudelnagar5&theme=2077" height="180em" />
-</div>
+  <h3 align="left" style="margin-left: 20px;"> Student View</h3>
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/st1.png?raw=true" alt="ITI Learning Platform - Student View" width="800" />
+
+  <h3 align="left" style="margin-left: 20px;"> Student View</h3>
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/st2.png?raw=true" alt="ITI Learning Platform - Student View" width="800" />
+  <h3 align="left" style="margin-left: 20px;"> Student View</h3>
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/st3.png?raw=true" alt="ITI Learning Platform - Student View" width="800" />
+  <h3 align="left" style="margin-left: 20px;"> Admin View</h3>
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/adminview.png?raw=true" alt="ITI Learning Platform - Admin View" width="800" />
+  <h3 align="left" style="margin-left: 20px;"> Manager View</h3>
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/mangerview.png?raw=true" alt="ITI Learning Platform - Manager View" width="800" />
+  
+<p align="left">
+<div>
+  <h2 align="left">• Filmrise</h2>
+  </p>
+
+  
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/FilmRise.png?raw=true" alt="FilmRise" width="800" />
+
+<p align="left">
+<div>
+  <h2 align="left">• Muslim </h2>
+  </p>
+
+  
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/muslim.png?raw=true" alt="muslim" width="800" />
+<p align="left">
+<div>
+  <h2 align="left">•  Gemini AI Chat App </h2>
+  </p>
+
+  
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/gemini.png?raw=true" alt="gemini" width="800" />
+  
+<p align="left">
+<div>
+  <h2 align="left">• Bookly </h2>
+  </p>
+
+  
+  <img src="https://github.com/Mahmoudelnagar5/Mahmoudelnagar5/blob/main/bookly.png?raw=true" alt="bookly" width="800" />
+
+
+
+
 
 
 <div align="center">
