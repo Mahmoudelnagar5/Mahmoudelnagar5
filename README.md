@@ -1,5 +1,6 @@
 <!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />  -->
-<img src= "https://github.com/user-attachments/assets/b7e6f251-6d17-4b92-9b72-da5bde3c5035" width="100%" />
+<!-- <img src= "https://github.com/user-attachments/assets/b7e6f251-6d17-4b92-9b72-da5bde3c5035" width="100%" /> -->
+<img width="2752" height="1536" alt="banner" src="https://github.com/user-attachments/assets/c4bc9e39-3e07-401c-91a3-e5beae5773a8" />
 
 <h1 align="center">Welcome, I am Mahmoud Elnagar</h1>
 <h4 align="center">Flutter Developer and a Bachelor’s degree student in Computer Science with a focus on building high-performance, responsive, and user-friendly mobile applications. Experienced in building cross-platform apps using Flutter and Dart, with a focus on clean architecture, responsive UI, and smooth user experiences. Skilled in integrating APIs, managing state efficiently, and implementing modern design principles. Continuously exploring new technologies and committed to delivering scalable and maintainable mobile solutions.</h4>
