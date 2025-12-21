@@ -29,6 +29,16 @@
 <h2 align="left">🚀 Projects I've Worked On:</h2>
 <p align="left">
 <div>
+  <h2 align="left"> قرشين وبنعدهم • </h2>
+  </p>
+<img width="900" height="690" alt="image" src="https://github.com/user-attachments/assets/f658426c-1875-456f-9f15-581a45ee01e9" />
+<img width="900" height="694" alt="image" src="https://github.com/user-attachments/assets/7fdeb932-1dee-4ddd-a52e-6ecad4b27493" />
+<img width="900" height="679" alt="image" src="https://github.com/user-attachments/assets/98c0a900-8cfd-441b-9ca8-eafe2ca0b843" />
+<img width="900" height="673" alt="image" src="https://github.com/user-attachments/assets/af8a0f37-c896-40bc-8aec-b1b12c2dd04d" />
+<img width="900" height="690" alt="image" src="https://github.com/user-attachments/assets/cedac474-a87f-4252-b2a4-f106347e2610" />
+    
+<p align="left">
+<div>
   <h2 align="left">• 🤖 Aura – AI-Powered Study Partner</h2>
   <p align="left">
     <a href="https://aura-01.netlify.app/" target="_blank">
