@@ -1,8 +1,37 @@
 <!-- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />  -->
 <!-- <img src= "https://github.com/user-attachments/assets/b7e6f251-6d17-4b92-9b72-da5bde3c5035" width="100%" /> -->
-<img width="2752" height="1536" alt="banner" src="https://github.com/user-attachments/assets/c4bc9e39-3e07-401c-91a3-e5beae5773a8" />
+<!-- <img width="2752" height="1536" alt="banner" src="https://github.com/user-attachments/assets/c4bc9e39-3e07-401c-91a3-e5beae5773a8" /> -->
+<h2> Hi, I'm Mahmoud Elnagar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h1 align="center">Welcome, I am Mahmoud Elnagar</h1>
+[![Linkedin: mahmoud](https://img.shields.io/badge/-Mahmoud%20Elnagar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-elnagar-11040a259)](https://www.linkedin.com/in/mahmoud-elnagar-11040a259)
+[![GitHub Mahmoud](https://img.shields.io/github/followers/Mahmoudelnagar5?label=follow&style=social)](https://github.com/Mahmoudelnagar5)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Mahmoud__Elnagar-orange?style=flat-square)](https://codeforces.com/profile/Mahmoud_Elnagar)
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```dart
+const mahmoud = {
+  pronouns: "he" | "his",
+  role: "Flutter Developer",
+  code: [Dart, C++, Python],
+  technologies: {
+        mobile: ["Flutter"],
+        stateManagement: ["BLoC", "Cubit", "Provider"],
+        backend: ["Firebase", "REST APIs"],
+        databases: ["Hive", "SQLite", "SharedPreferences"],
+        tools: ["Git", "GitHub", "Flutter DevTools", "Figma"],
+    },
+  architecture: ["Clean Architecture", "MVVM", "SOLID"],
+  cloud: ["Firebase", "Microsoft Azure"],
+  askMeAbout: ["Flutter", "Mobile Development", "Clean Architecture", "Performance Optimization"],
+  currentFocus: "Building scalable Flutter apps with clean architecture",
+  futureGoal: "Contribute to open source & build impactful apps 🚀"
+}
+```
+<!-- <h1 align="center">Welcome, I am Mahmoud Elnagar</h1> -->
 <h4 align="center">Flutter Developer and a Bachelor’s degree student in Computer Science with a focus on building high-performance, responsive, and user-friendly mobile applications. Experienced in building cross-platform apps using Flutter and Dart, with a focus on clean architecture, responsive UI, and smooth user experiences. Skilled in integrating APIs, managing state efficiently, and implementing modern design principles. Continuously exploring new technologies and committed to delivering scalable and maintainable mobile solutions.</h4>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">  Languages and Tools :
