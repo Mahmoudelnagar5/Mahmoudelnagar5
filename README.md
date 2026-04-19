@@ -52,10 +52,24 @@ const mahmoud = {
 </div><h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/mahmoud-elnagar-11040a259" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mahmoud-elnagar-11040a259" height="30" width="40" /></a><a href="https://fb.com/m.elnaggar.159" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="m.elnaggar.159" height="30" width="40" /></a><a href="https://www.leetcode.com/Mahmoud_Elnagar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Mahmoud_Elnagar5" height="30" width="40" /></a><a href="https://discord.gg/mahmoud_elnagar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="mahmoud_elnagar5" height="30" width="40" /></a><a href="https://codeforces.com/profile/Mahmoud_Elnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Mahmoud_Elnagar" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/mahmoud-elnagar-11040a259" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="mahmoud-elnagar-11040a259" height="30" width="40" /></a><a href="https://fb.com/m.elnaggar.159" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="m.elnaggar.159" height="30" width="40" /></a><a href="https://www.leetcode.com/Mahmoud_Elnagar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Mahmoud_Elnagar5" height="30" width="40" /></a><a href="https://discord.gg/mahmoud_elnagar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="mahmoud_elnagar5" height="30" width="40" /></a><a href="https://codeforces.com/profile/Mahmoud_Elnagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Mahmoud_Elnagar" height="30" width="40" />
+</a>
+</p>
 
 ---
 <h2 align="left">🚀 Projects I've Worked On:</h2>
+
+    
+<p align="left">
+<div>
+  <h2 align="left">• Momento </h2>
+  <img src="https://github.com/user-attachments/assets/38519f47-6b1e-49e5-9b2e-be176e038669"  width="900" height="690"  />
+  <img src="https://github.com/user-attachments/assets/8f4d98f5-55d4-42c6-8338-b97e7bc2f28b" alt="ar1"  width="900" height="690"  />
+  <img src="https://github.com/user-attachments/assets/268a8191-6674-4fa9-b929-253f001094c2" alt="ar1"  width="900" height="690" />
+  <img src="https://github.com/user-attachments/assets/7a338e08-1f8a-4c65-a6d5-582f2461950a" alt="ar1"  width="900" height="690" />
+
+
 <p align="left">
 <div>
   <h2 align="left"> قرشين وبنعدهم • </h2>
